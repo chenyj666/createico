@@ -1,0 +1,11 @@
+D:\文档\Visual Studio 2022\project\图标生成器\bin\Debug\图标生成器.exe.config
+D:\文档\Visual Studio 2022\project\图标生成器\bin\Debug\图标生成器.exe
+D:\文档\Visual Studio 2022\project\图标生成器\bin\Debug\图标生成器.pdb
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.csproj.AssemblyReference.cache
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.csproj.SuggestedBindingRedirects.cache
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.Form1.resources
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.Properties.Resources.resources
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.csproj.GenerateResource.cache
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.csproj.CoreCompileInputs.cache
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.exe
+D:\文档\Visual Studio 2022\project\图标生成器\obj\Debug\图标生成器.pdb
